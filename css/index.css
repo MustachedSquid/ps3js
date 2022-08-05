@@ -1,0 +1,36 @@
+html {
+    min-height: 100vh;
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+body {
+    background-color: lightblue;
+    background-image: url("../res/img/wallpaper1.png");
+    padding: 0;
+    margin: 5px;
+    color: white;
+    overflow: hidden;
+}
+
+#content {
+    margin: auto;
+    width: 70%;
+    margin-top: 10%;
+}
+
+#mainIconTable {
+    margin: auto;
+    position: relative;
+
+}
+
+img {
+    width: 125px;
+    height: auto;
+    margin: 10px;
+}
+
+td  {
+    text-align: center;
+}
